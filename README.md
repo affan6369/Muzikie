@@ -1,7 +1,7 @@
 # Muzikie
 
-Muzikie is a music player, developed using HTML, CSS and JavaScript.
-I have added 6 songs sung by me in it.
+Muzikie – Music Player
+Interactive music player using HTML, CSS, and JavaScript, featuring a curated collection of six songs sung by me for a personalized listening experience.
 
 ## 🚀 About Me
-I'm a front end developer and Data Science student at IIT Madras.
+I'm a Programming and Data Science student at IIT Madras.
